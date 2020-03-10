@@ -1,4 +1,4 @@
-# homogenization code 
+# homogenization code Eelde / Groningen
 Homogenization of Groningen/Eelde
 
 This directory contains the following files:
